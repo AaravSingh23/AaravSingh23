@@ -50,8 +50,8 @@ class AaravSingh:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaravSingh23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=0891b2&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravSingh23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaravSingh23&theme=tokyonight" alt="GitHub Stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaravSingh23&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
