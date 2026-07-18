@@ -50,12 +50,12 @@ class AaravSingh:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaravSingh23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=0891b2&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravSingh23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaravSingh23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=0891b2&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaravSingh23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AaravSingh23&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=AaravSingh23&theme=tokyonight&hide_border=true&background=0d1117&stroke=0891b2&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -100,7 +100,6 @@ class AaravSingh:
 
 <p align="center">
   <a href="https://github.com/AaravSingh23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <!-- Add your other profiles below by replacing # with your actual links -->
   <a href="https://www.linkedin.com/in/aarav-singh-ab3585375"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/its_aarav06"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
